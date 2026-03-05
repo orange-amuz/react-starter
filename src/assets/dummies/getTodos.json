@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "문서 정리하기",
+    "description": "AGENTS.md와 규칙 파일 동기화",
+    "is_completed": false,
+    "due_date": "2026-03-10T09:00:00.000Z",
+    "created_at": "2026-03-01T09:00:00.000Z",
+    "updated_at": "2026-03-01T09:00:00.000Z",
+    "tags": [
+      {
+        "id": 1,
+        "name": "docs",
+        "color": "#4f46e5",
+        "created_at": "2026-03-01T09:00:00.000Z",
+        "updated_at": "2026-03-01T09:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Todo API 연결",
+    "description": null,
+    "is_completed": true,
+    "due_date": null,
+    "created_at": "2026-03-02T09:00:00.000Z",
+    "updated_at": "2026-03-02T09:00:00.000Z",
+    "tags": []
+  }
+]
